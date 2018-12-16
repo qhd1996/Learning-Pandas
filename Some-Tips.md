@@ -3,5 +3,5 @@
 'type' descs the type of a scalar variable.  
   
 **2.assign**  
-'assign' add a new column to the DataFrame.  
+'assign' adds a new column to the DataFrame.  
 
